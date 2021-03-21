@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  width:100%;
+  text-align: center;
+  background:black;
+  border-radius:10px;
+  padding-bottom:20px;
+  border:1px solid black;
+  /* background:black; */
+}
+
